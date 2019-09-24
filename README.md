@@ -26,3 +26,11 @@ Roadmap
 - [ ] Secure HTTP Connection
 - [X] Remove extensions
 - [ ] 404 html page
+- [ ] macOS support
+ - [X] macOS compatibility
+ - [ ] macOS run file
+- [ ] linux support
+ - [X] linux compatibility
+ - [ ] linux run file
+- [ ] Exe File for windows Users
+ - [ ] Configuration File
