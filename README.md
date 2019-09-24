@@ -27,10 +27,10 @@ Roadmap
 - [X] Remove extensions
 - [ ] 404 html page
 - [ ] macOS support
- - [X] macOS compatibility
- - [ ] macOS run file
+  - [X] macOS compatibility
+  - [ ] macOS run file
 - [ ] linux support
- - [X] linux compatibility
- - [ ] linux run file
+  - [X] linux compatibility
+  - [ ] linux run file
 - [ ] Exe File for windows Users
- - [ ] Configuration File
+  - [ ] Configuration File
