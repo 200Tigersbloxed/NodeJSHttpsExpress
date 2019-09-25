@@ -23,7 +23,7 @@ To visit the website go to http://localhost:port
 
 Roadmap
 - [X] HTTP
-- [ ] Secure HTTP Connection
+- [X] Secure HTTP Connection
 - [X] Remove extensions
 - [ ] 404 html page
 - [X] macOS support
@@ -33,4 +33,4 @@ Roadmap
   - [X] linux compatibility
   - [X] linux run file
 - [ ] Exe File for windows Users
-  - [X] Configuration File
+- [X] Configuration File
