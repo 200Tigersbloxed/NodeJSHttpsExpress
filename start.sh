@@ -1,2 +1,2 @@
 cd $(dirname $0)
-node server.js
+sudo node server.js
