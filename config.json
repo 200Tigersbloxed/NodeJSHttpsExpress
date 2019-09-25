@@ -1,3 +1,7 @@
 { 
-  "porta": 3000
+  "httpPORT": 80,
+  "httpsPORT": 443,
+  "certkey": "localhost.key",
+  "cert": "localhost.crt",
+  "enablehttps": false
 }
