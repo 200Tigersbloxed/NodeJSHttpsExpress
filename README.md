@@ -33,4 +33,4 @@ Roadmap
   - [X] linux compatibility
   - [X] linux run file
 - [ ] Exe File for windows Users
-  - [ ] Configuration File
+  - [X] Configuration File
