@@ -14,7 +14,7 @@ npm install serve-index
 ```
 npm install express
 ```
-2) Make any adjustments to server.js file. Such as changing the port or the 404 message.
+2) Make any adjustments to server.js file or config.json. Such as changing the port or the 404 message.
 
 3) Run start.bat
 
